@@ -5,4 +5,6 @@ scripts/create_structures_abinitio.sh
 scripts/create_structures_minirosetta.sh
 scripts/calculate_rmsd.py
 scripts/extract_rms.py
+scripts/move_to_train_and_val.sh
+get_length_from_fasta.py
 
