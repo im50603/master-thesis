@@ -1,0 +1,8 @@
+tmp/
+.idea/
+dag.svg
+scripts/create_structures_abinitio.sh
+scripts/create_structures_minirosetta.sh
+scripts/calculate_rmsd.py
+scripts/extract_rms.py
+
